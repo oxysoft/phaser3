@@ -6,3 +6,6 @@ library phaser3;
 import 'dart:html';
 import 'dart:async';
 import 'dart:math';
+
+part 'src/animation.dart';
+part 'src/graphics.dart';
